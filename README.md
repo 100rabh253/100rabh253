@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurabh Tiwari
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning React JS
+- 👀 I've an active interest in Front-end Development
+- 🌱 I’m well versed with HTML5, CSS3, Bootstrap, Vanilla JS and currently learning React JS.
 
 <!---
 100rabh253/100rabh253 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
